@@ -1,7 +1,6 @@
 
 
 <?php
-//patatje
 include "cartfuncties.php";
 ?>
 <!DOCTYPE html>
